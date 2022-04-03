@@ -1,5 +1,9 @@
 # JogTracker
 
+JobTracker is an application which uses MVVM pattern and Android Jetpack. The application makes uses of google map API to show the users location during a running session. It also includes a timer that take account of how long the user spent jogging. Once the user is done, the application takes a screenshot of the users run on the map. It then calculates how much calories the user burnt during the exercise and saves it in a database.
+
+
+
 
 ## Images
 <img src="https://user-images.githubusercontent.com/61085272/110286164-bfad2a80-7fe4-11eb-8a7d-e837ef2f50f8.jpg" width="33%" /> <img src="https://user-images.githubusercontent.com/61085272/110286171-c0de5780-7fe4-11eb-9323-937a66ba2c72.jpg" width="33%" /> 
